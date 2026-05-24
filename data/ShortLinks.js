@@ -69,14 +69,14 @@ const shortLinks = {
   "discord": "https://discord.com/users/444078929314185217",
   "ds": "https://discord.com/users/444078929314185217",
 
-  "codeberg": "https://codeberg.org/jartf",
-  "cd": "https://codeberg.org/jartf",
+  "codeberg": "https://codeberg.org/0jar",
+  "cd": "https://codeberg.org/0jar",
 
-  "github": "https://github.com/jartf",
-  "gh": "https://github.com/jartf",
+  "github": "https://github.com/0jar",
+  "gh": "https://github.com/0jar",
 
-  "gitlab": "https://gitlab.com/jartf",
-  "gl": "https://gitlab.com/jartf",
+  "gitlab": "https://gitlab.com/0jar",
+  "gl": "https://gitlab.com/0jar",
 
   "bluesky": "https://bsky.app/profile/jarema.me",
   "bsky": "https://bsky.app/profile/jarema.me",
