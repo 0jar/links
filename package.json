@@ -17,7 +17,7 @@
     "next-themes": "^0.4.6",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "styled-components": "^6.4.3"
+    "styled-components": "^6.4.4"
   },
   "overrides": {
     "postcss": ">=8.5.10"
