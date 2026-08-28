@@ -23,7 +23,7 @@
     "postcss": ">=8.5.10"
   },
   "devDependencies": {
-    "eslint": "^10.8.0",
+    "eslint": "^10.9.1",
     "eslint-config-next": "^16.2.11",
     "prettier": "^3.9.6"
   },
